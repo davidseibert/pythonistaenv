@@ -1,0 +1,6 @@
+pythonistaenv.egg-info/PKG-INFO
+pythonistaenv.egg-info/SOURCES.txt
+pythonistaenv.egg-info/dependency_links.txt
+pythonistaenv.egg-info/not-zip-safe
+pythonistaenv.egg-info/requires.txt
+pythonistaenv.egg-info/top_level.txt
