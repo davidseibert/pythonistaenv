@@ -11,6 +11,8 @@ setup(name='pythonistaenv',
       include_package_data=True,
       install_requires=[
           'jinja2',
+          'pandas',
+          'mock',
       ],
       zip_safe=False,
       )
